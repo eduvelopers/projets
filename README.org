@@ -2,6 +2,21 @@
 
 Liste de projets de logiciels libres à présenter sur le site [[https://eduvelopers.org][eduvelopers.org]].
 
+** hackinscience.org
+
+[[https://hackinscience.org]]
+
+Hackinscience est une plateforme open-source et gratuite développée
+par une équipe de passionnés depuis 2013, et permettant d'apprendre à
+programmer en Python par le biais d'exercices graduées en difficulté
+corrigés automatiquement par le site.
+
+La plateforme propose pour chaque exercice un énoncé et un cadre
+permettant de taper et d'évaluer son code directement dans le
+navigateur. Avec déjà plus de 60 exercices à son compte, HackInScience
+se présente comme une alternative beaucoup plus légère aux piliers du
+marché en plaçant l'emphase sur la simplicité.
+
 ** Sugarizer
 
 [[https://sugarizer.org]]
