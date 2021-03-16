@@ -1,6 +1,7 @@
 #+title: Projets à présenter sur eduvelopers.org
 
-Liste de projets de logiciels libres à présenter sur le site [[https://eduvelopers.org][eduvelopers.org]].
+Liste de projets de logiciels libres à présenter sur le site
+[[https://www.eduvelopers.org][www.eduvelopers.org]].
 
 ** hackinscience.org
 
