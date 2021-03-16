@@ -1,0 +1,12 @@
+#+title: Projets à présenter sur eduvelopers.org
+
+Liste de projets de logiciels libres à présenter sur le site [[https://eduvelopers.org][eduvelopers.org]].
+
+** Sugarizer
+
+[[https://sugarizer.org]]
+
+Sugarizer est une suite pédagogique libre et gratuite. Son interface
+reprend les principes ergonomiques de Sugar, la suite logicielle
+développée par le projet One Laptop Per Child, et aujourd'hui utilisée
+par plus de 2 millions d'enfants dans le monde.
