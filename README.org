@@ -26,3 +26,11 @@ Sugarizer est une suite pédagogique libre et gratuite. Son interface
 reprend les principes ergonomiques de Sugar, la suite logicielle
 développée par le projet One Laptop Per Child, et aujourd'hui utilisée
 par plus de 2 millions d'enfants dans le monde.
+
+** PDF4Teachers
+
+[[https://pdf4teachers.org]]
+
+PDF4Teachers est un éditeur de fichiers PDF orienté correction de copies.
+L'application est basée sur un système de mémorisation des dernières annotations saisies : chaque annotation saisie est ajoutée à une liste dans laquelle on peut récupérer des annotations précédentes. Elle intègre aussi des fonctions de barème, qui permettent de noter les copies plus rapidement (calcul des sommes automatiquement, export dans un tableur...).
+PDF4Teachers offre aussi des fonctions de conversions de lots d'images en fichiers PDF, ou encore de rotation et de déplacement de pages d'un document PDF.
