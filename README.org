@@ -43,7 +43,7 @@ PDF4Teachers offre aussi des fonctions de conversions de lots d'images en fichie
 
 Site : https://gcompris.net/index-fr.html
 
-Soutenir : https://www.patreon.com/join/animtim?
+Soutenir : https://www.patreon.com/join/animtim
 
 GCompris est un logiciel éducatif qui propose diverses activités pour
 les enfants de 2 à 10 ans. Il couvre de nombreux domaines, qu'il est
