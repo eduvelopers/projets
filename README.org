@@ -5,7 +5,7 @@ Liste de projets de logiciels libres à présenter sur le site
 
 ** hackinscience.org
 
-[[https://hackinscience.org]]
+Site : [[https://hackinscience.org]]
 
 Soutenir : https://www.hackinscience.org/page/sponsor
 
@@ -22,7 +22,7 @@ marché en plaçant l'emphase sur la simplicité.
 
 ** Sugarizer
 
-[[https://sugarizer.org]]
+Site : [[https://sugarizer.org]]
 
 Sugarizer est une suite pédagogique libre et gratuite. Son interface
 reprend les principes ergonomiques de Sugar, la suite logicielle
@@ -31,10 +31,24 @@ par plus de 2 millions d'enfants dans le monde.
 
 ** PDF4Teachers
 
-[[https://pdf4teachers.org]]
+Site : [[https://pdf4teachers.org]]
 
 Soutenir : https://github.com/sponsors/ClementGre
 
 PDF4Teachers est un éditeur de fichiers PDF orienté correction de copies.
 L'application est basée sur un système de mémorisation des dernières annotations saisies : chaque annotation saisie est ajoutée à une liste dans laquelle on peut récupérer des annotations précédentes. Elle intègre aussi des fonctions de barème, qui permettent de noter les copies plus rapidement (calcul des sommes automatiquement, export dans un tableur...).
 PDF4Teachers offre aussi des fonctions de conversions de lots d'images en fichiers PDF, ou encore de rotation et de déplacement de pages d'un document PDF.
+
+** Gcompris
+
+Site : https://gcompris.net/index-fr.html
+
+Soutenir : https://www.patreon.com/join/animtim?
+
+GCompris est un logiciel éducatif qui propose diverses activités pour
+les enfants de 2 à 10 ans. Il couvre de nombreux domaines, qu'il est
+possible d'assimiler à 7 grandes catégories : la découverte de
+l'ordinateur, les mathématiques, les sciences, la géographie, les
+jeux, la lecture, les autres activités (lecture de l'heure, puzzle,
+création d'un dessin animé.)
+
