@@ -46,9 +46,9 @@ Site : https://gcompris.net/index-fr.html
 Soutenir : https://www.patreon.com/join/animtim
 
 GCompris est un logiciel éducatif qui propose diverses activités pour
-les enfants de 2 à 10 ans. Il couvre de nombreux domaines, qu'il est
-possible d'assimiler à 7 grandes catégories : la découverte de
-l'ordinateur, les mathématiques, les sciences, la géographie, les
-jeux, la lecture, les autres activités (lecture de l'heure, puzzle,
-création d'un dessin animé.)
+les enfants de 2 à 10 ans.Les activités couvrent de nombreux domaines,
+et sont réparties en 8 catégories principales et sous-catégories :
+interactions avec l'ordinateur, découverte, sciences, divertissement,
+mathématiques, puzzle, lecture, stratégie.
+
 
