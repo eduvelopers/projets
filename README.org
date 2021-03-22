@@ -7,6 +7,8 @@ Liste de projets de logiciels libres à présenter sur le site
 
 [[https://hackinscience.org]]
 
+Soutenir : https://www.hackinscience.org/page/sponsor
+
 Hackinscience est une plateforme open-source et gratuite développée
 par une équipe de passionnés depuis 2013, et permettant d'apprendre à
 programmer en Python par le biais d'exercices graduées en difficulté
@@ -30,6 +32,8 @@ par plus de 2 millions d'enfants dans le monde.
 ** PDF4Teachers
 
 [[https://pdf4teachers.org]]
+
+Soutenir : https://github.com/sponsors/ClementGre
 
 PDF4Teachers est un éditeur de fichiers PDF orienté correction de copies.
 L'application est basée sur un système de mémorisation des dernières annotations saisies : chaque annotation saisie est ajoutée à une liste dans laquelle on peut récupérer des annotations précédentes. Elle intègre aussi des fonctions de barème, qui permettent de noter les copies plus rapidement (calcul des sommes automatiquement, export dans un tableur...).
