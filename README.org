@@ -52,3 +52,37 @@ interactions avec l'ordinateur, découverte, sciences, divertissement,
 mathématiques, puzzle, lecture, stratégie.
 
 
+
+** AbulÉdu
+
+AbulÉdu, c'est plus de quinze ans de création de ressources éducatives
+libres francophones (REL), développées à l'origine par des bénévoles,
+d'abord au sein d'une communauté informelle et depuis 2010 dans le
+cadre de l'association AbulÉdu-fr qui regroupe les membres les plus
+actifs.
+
+AbulÉdu, ce sont environ 2.500 serveurs installés, représentant
+quelques 50.000 utilisateurs ce qui a permis de mettre en réseau les
+ressources informatiques des écoles. Ce sont aussi des logiciels
+pédagogiques distribués avec les serveurs AbulÉdu et qui équipent
+également d'autres distributions libres pour l'école.
+
+AbulÉdu ce sont également des services numériques libres et éthiques
+parmi lesquels data (une banque d'environ 35000 images sous licences
+libres et indexées selon la norme scolom-fr) et Edutwit (un réseau
+social de production d'écrits courts réservé à la communauté
+éducative).
+
+L'ensemble des logiciels de la suite pédagogique et les ressources
+éducatives libres ont été conçus pour accompagner les pratiques de
+classe.  Des enseignants de maternelle, d'élémentaire et de collège
+ont coopéré avec des développeurs amateurs et professionnels, des
+graphistes, des élus locaux et des animateurs TICE afin d'élaborer,
+tester et valider ces outils et ces ressources.
+
+Liens : 
+
+- https://abuledu.org
+- https://abuledu-fr.org
+- https://edutwit.fr
+- https://data.abuledu.org
