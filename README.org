@@ -24,6 +24,8 @@ marché en plaçant l'emphase sur la simplicité.
 
 Site : [[https://sugarizer.org]]
 
+Soutenir : https://github.com/sponsors/llaske ou https://liberapay.com/llaske/
+
 Sugarizer est une suite pédagogique libre et gratuite. Son interface
 reprend les principes ergonomiques de Sugar, la suite logicielle
 développée par le projet One Laptop Per Child, et aujourd'hui utilisée
@@ -50,7 +52,6 @@ les enfants de 2 à 10 ans.Les activités couvrent de nombreux domaines,
 et sont réparties en 8 catégories principales et sous-catégories :
 interactions avec l'ordinateur, découverte, sciences, divertissement,
 mathématiques, puzzle, lecture, stratégie.
-
 
 
 ** AbulÉdu
