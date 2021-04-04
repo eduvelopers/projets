@@ -53,7 +53,6 @@ et sont réparties en 8 catégories principales et sous-catégories :
 interactions avec l'ordinateur, découverte, sciences, divertissement,
 mathématiques, puzzle, lecture, stratégie.
 
-
 ** AbulÉdu
 
 AbulÉdu, c'est plus de quinze ans de création de ressources éducatives
@@ -87,3 +86,18 @@ Liens :
 - https://abuledu-fr.org
 - https://edutwit.fr
 - https://data.abuledu.org
+
+** Dr.Geo
+
+Site : http://www.drgeo.eu
+
+Soutenir : http://www.drgeo.eu/sponsors/becomesponsor
+
+Dr.Geo permet de créer des figures géométriques et de les manipuler
+interactivement en respectant leurs contraintes géométriques. Il offre
+également la possibilité d’introduire graduellement la programmation.
+Il est ainsi utilisable dans des situations d’enseignement allant du
+niveau primaire au niveau supérieur.  L’interface utilisateur de
+Dr.Geo a été conçue pour allier dans un ensemble harmonieux à la fois
+simplicité d’utilisation, ergonomie et fonctionnalités avancées.
+
