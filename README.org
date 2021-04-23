@@ -101,3 +101,14 @@ niveau primaire au niveau supérieur.  L’interface utilisateur de
 Dr.Geo a été conçue pour allier dans un ensemble harmonieux à la fois
 simplicité d’utilisation, ergonomie et fonctionnalités avancées.
 
+
+
+** Physic-Shem
+
+Site : https://alexfauquette.github.io/physic-shem/
+
+Physic-Shem permet de dessiner des circuits électriques. Exportez vos 
+schémas sous format d'image, de code LaTeX, ou sauvegardez là sur le serveur 
+pour la partager avec d'autres. Ne manquez pas non plus le tutoriel 
+https://alexfauquette.github.io/physic-shem/#/tutorial pour comprendre 
+les bases de la création des circuits électriques en LaTeX.
