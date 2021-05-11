@@ -112,3 +112,11 @@ schémas sous format d'image, de code LaTeX, ou sauvegardez là sur le serveur
 pour la partager avec d'autres. Ne manquez pas non plus le tutoriel 
 https://alexfauquette.github.io/physic-shem/#/tutorial pour comprendre 
 les bases de la création des circuits électriques en LaTeX.
+
+** do•doc
+
+Site : [[https://dodoc.fr]]
+
+Soutenir : https://forum.latelier-des-chercheurs.fr/
+
+Conçu pour documenter et créer des récits à partir d'activités pratiques, do•doc (prononcer doudoc) est un outil collaboratif, composite, libre et modulaire. Il permet de capturer des médias (photos, vidéos, sons et stop-motion), de les éditer, de les mettre en page et de les publier au format PDF, web ou vidéo. Son aspect composite permet de le reconfigurer de manière à ce qu'il soit le plus adapté possible à la situation dans laquelle il est déployé. do•doc existe en version application hors-ligne pour Linux, mac et Windows, et en version *webapp* en ligne.
