@@ -7,7 +7,7 @@ Liste de projets de logiciels libres à présenter sur le site
 
 Site : [[https://hackinscience.org]]
 
-Soutenir : https://www.hackinscience.org/page/sponsor
+Soutenir : [[https://www.hackinscience.org/page/sponsor]]
 
 Hackinscience est une plateforme open-source et gratuite développée
 par une équipe de passionnés depuis 2013, et permettant d'apprendre à
@@ -24,7 +24,7 @@ marché en plaçant l'emphase sur la simplicité.
 
 Site : [[https://sugarizer.org]]
 
-Soutenir : https://github.com/sponsors/llaske ou https://liberapay.com/llaske/
+Soutenir : [[https://github.com/sponsors/llaske]] ou [[https://liberapay.com/llaske/]]
 
 Sugarizer est une suite pédagogique libre et gratuite. Son interface
 reprend les principes ergonomiques de Sugar, la suite logicielle
@@ -35,7 +35,7 @@ par plus de 2 millions d'enfants dans le monde.
 
 Site : [[https://pdf4teachers.org]]
 
-Soutenir : https://github.com/sponsors/ClementGre
+Soutenir : [[https://github.com/sponsors/ClementGre]]
 
 PDF4Teachers est un éditeur de fichiers PDF orienté correction de copies.
 L'application est basée sur un système de mémorisation des dernières annotations saisies : chaque annotation saisie est ajoutée à une liste dans laquelle on peut récupérer des annotations précédentes. Elle intègre aussi des fonctions de barème, qui permettent de noter les copies plus rapidement (calcul des sommes automatiquement, export dans un tableur...).
@@ -43,9 +43,9 @@ PDF4Teachers offre aussi des fonctions de conversions de lots d'images en fichie
 
 ** Gcompris
 
-Site : https://gcompris.net/index-fr.html
+Site : [[https://gcompris.net/index-fr.html]]
 
-Soutenir : https://www.patreon.com/join/animtim
+Soutenir : [[https://www.patreon.com/join/animtim]]
 
 GCompris est un logiciel éducatif qui propose diverses activités pour
 les enfants de 2 à 10 ans.Les activités couvrent de nombreux domaines,
@@ -82,16 +82,16 @@ tester et valider ces outils et ces ressources.
 
 Liens : 
 
-- https://abuledu.org
-- https://abuledu-fr.org
-- https://edutwit.fr
-- https://data.abuledu.org
+- [[https://abuledu.org][abuledu.org]]
+- [[https://abuledu-fr.org][abuledu-fr.org]]
+- [[https://edutwit.fr][edutwit.fr]]
+- [[https://data.abuledu.org][data.abuledu.org]]
 
 ** Dr.Geo
 
-Site : http://www.drgeo.eu
+Site : [[http://www.drgeo.eu]]
 
-Soutenir : http://www.drgeo.eu/sponsors/becomesponsor
+Soutenir : [[http://www.drgeo.eu/sponsors/becomesponsor]]
 
 Dr.Geo permet de créer des figures géométriques et de les manipuler
 interactivement en respectant leurs contraintes géométriques. Il offre
@@ -101,21 +101,56 @@ niveau primaire au niveau supérieur.  L’interface utilisateur de
 Dr.Geo a été conçue pour allier dans un ensemble harmonieux à la fois
 simplicité d’utilisation, ergonomie et fonctionnalités avancées.
 
-
 ** Physic-Shem
 
-Site : https://alexfauquette.github.io/physic-shem/
+Site : [[https://alexfauquette.github.io/physic-shem/]]
 
-Physic-Shem permet de dessiner des circuits électriques. Exportez vos 
-schémas sous format d'image, de code LaTeX, ou sauvegardez là sur le serveur 
-pour la partager avec d'autres. Ne manquez pas non plus le tutoriel 
-https://alexfauquette.github.io/physic-shem/#/tutorial pour comprendre 
-les bases de la création des circuits électriques en LaTeX.
+Physic-Shem permet de dessiner des circuits électriques. Exportez vos
+schémas sous format d'image, de code LaTeX, ou sauvegardez là sur le
+serveur pour la partager avec d'autres.  Ne manquez pas non plus le
+[[https://alexfauquette.github.io/physic-shem/#/tutorial][tutoriel]]
+pour comprendre les bases de la création des circuits électriques en
+LaTeX.
 
 ** do•doc
 
 Site : [[https://dodoc.fr]]
 
-Soutenir et participer : https://forum.latelier-des-chercheurs.fr
+Soutenir et participer : [[https://forum.latelier-des-chercheurs.fr]]
 
 Conçu pour documenter et créer des récits à partir d'activités pratiques, do•doc (prononcer doudoc) est un outil collaboratif, composite, libre et modulaire. Il permet de capturer des médias (photos, vidéos, sons et stop-motion), de les éditer, de les mettre en page et de les publier au format PDF, web ou vidéo. Son aspect composite permet de le reconfigurer de manière à ce qu'il soit le plus adapté possible à la situation dans laquelle il est déployé. do•doc existe en version application hors-ligne pour Linux, mac et Windows, et en version *webapp* en ligne.
+
+** APSC (ArtsPlastocSequenceConceptor)
+
+Site : [[https://lewebpedagogique.com/apsc]]
+
+Soutenir et participer : [[https://lewebpedagogique.com/apsc/faire-un-don/]]
+
+Il s'agit d'un logiciel (de son nom long ArtsPlastocSequenceConceptor)
+pour construire et mettre en forme des séquences pédagogiques en arts
+plastiques (dernièrement la version 2.0.0, non documentée pour
+l'instant par faute de temps, permet aussi de gérer les disciplines
+suivantes : Français, Mathématiques et Technologie).
+
+Dans un fonctionnement courant l'application permet à l’enseignant
+d’enregistrer ses préparations sous la forme d’un fichier (avec
+extension .artp), et le professeur, peut, dès qu’il le désire, éditer
+la la séquence (précédemment préparée), et en produire la fiche du
+professeur et dans la foulée la fiche élève, et pour finir la fiche
+d’évaluation (avec un tableau comportant la liste des élèves mise en
+regard avec les critères d’évaluation).
+
+** MurExpo
+
+Site : [[https://me.murexpo.org]]
+
+Soutenir : [[https://murexpo.org/me/soutenir-faire-un-don/]]
+
+Il s'agit d'un logiciel qui met à disposition des murs d’exposition
+sur lesquels on peut accrocher des oeuvres (travaux de plasticiens,
+travaux d’élèves, etc.) afin de les mettre en situation comme dans une
+salle d’exposition.
+
+MurExpo est très facile d'utilisation et il s'adresse aussi bien aux
+élèves qu'aux enseignants.
+
