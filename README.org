@@ -1,4 +1,4 @@
-#+title: Projets à présenter sur eduvelopers.org
+#+title: Projets à présenter sur [[https://www.eduvelopers.org][www.eduvelopers.org]]
 
 Liste de projets de logiciels libres à présenter sur le site
 [[https://www.eduvelopers.org][www.eduvelopers.org]].
