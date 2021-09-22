@@ -158,12 +158,15 @@ MurExpo est très facile d'utilisation et il s'adresse aussi bien aux
 
 Site : [[https://coopmaths.fr]]
 
-[[https://coopmaths.fr/mathalea]] est un générateur libre d'exercices de 
-mathématiques à données aléatoires que l'on peut paramétrer, visualiser 
-en ligne, exporter en LaTeX ou exporter en PDF avec une correction détaillée.
+[[https://coopmaths.fr/mathalea]] est un générateur libre d'exercices de
+mathématiques à données aléatoires que l'on peut paramétrer,
+visualiser en ligne, exporter en LaTeX ou exporter en PDF avec une
+correction détaillée.
 
-Certains exercices proposent un mode interactif pour que l'élève puisse saisir 
-sa réponse et être corrigé.
-Les enseignants ont la possibilité de récupérer les résultats des élèves à l'aide 
-d'un code et en ne transmettant aucune donnée personnelle.
+Certains exercices proposent un mode interactif pour que l'élève
+puisse saisir sa réponse et être corrigé.
+
+Les enseignants ont la possibilité de récupérer les résultats des
+élèves à l'aide d'un code et en ne transmettant aucune donnée
+personnelle.
 
